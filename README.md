@@ -42,6 +42,9 @@ You will need the following installed on your computer system, if you want to re
 ![!avg_max_min_temp_single_date](./Images/flask6.png)
 ![!temps_btwn_dates](./Images/flask7.png)
 
+# Snapshot Of Flask App Function That Returns All Temperatures Between A Start And End Date
+
+![!temps_btwn_dates](./Images/sql_alchemy_function_ex_flask.png)
 
 ## Findings
 
