@@ -25,7 +25,7 @@ You will need the following installed on your computer system, if you want to re
 
 * Viewing Source Code - if this is the route you'd like to go, then please click on the Jupyter Notebooks in the repository and the Flask app, as you can easily view the code via Github. All of the action is here!
 * Clone / Download Entire Repository - if you'd like to replicate my work, please download / clone my repository and install all of the prerequisites. After, you can open the Jupyter Notebooks to see all of the raw calcuations and code.
-* Hawaii_Flask.py app
+* Running the 'hawaii_flask.py' application
   * If you want to run this, you'll need to download the repository on your computer
   * Open the folder
   * Open up a terminal by right clicking directly in that folde
@@ -55,8 +55,6 @@ You will need the following installed on your computer system, if you want to re
 * Here is a histogram of the most frequent temperatures in Hawaii from August 23, 2016 - August 23, 2017. The data suggests that Hawaii's average temperature is frequently around 75 degrees. This makes sense because the island is geographically closer to the equator compared to most countries and islands, and it is known as a year-round destination for vacation and tourism.
 
 ![!temperature_chart](./Images/temperature_histogram.png)
-
-
 
 ## Next Steps Considerations
 * Spend more time making nicer charts
