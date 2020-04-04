@@ -32,7 +32,18 @@ You will need the following installed on your computer system, if you want to re
   * Type into the terminal "python Hawaii_Flask.py" and press enter to run the file
   * The output will be a local server http address as you'll see in the next section below, where I've included pictures to follow along below
 
-## Output
+## Running the Flask App - Screenshots
+
+![!terminal](./Images/flask1.png)
+![!home_page](./Images/flask2.png)
+![!precipitation](./Images/flask3.png)
+![!stations](./Images/flask4.png)
+![!termperature_tobs](./Images/flask5.png)
+![!avg_max_min_temp_single_date](./Images/flask6.png)
+![!temps_btwn_dates](./Images/flask7.png)
+
+
+## Findings
 
 * Below is a quick chart displaying the daily precipitation data from August 23, 2016 - August 23, 2017, in chronological order. The data suggest that the islands have had increasing higher precipitation in 2017, compared to 2016, meaning there was higher probability for more rainfall.
 
@@ -41,6 +52,7 @@ You will need the following installed on your computer system, if you want to re
 * Here is a histogram of the most frequent temperatures in Hawaii from August 23, 2016 - August 23, 2017. The data suggests that Hawaii's average temperature is frequently around 75 degrees. This makes sense because the island is geographically closer to the equator compared to most countries and islands, and it is known as a year-round destination for vacation and tourism.
 
 ![!temperature_chart](./Images/temperature_histogram.png)
+
 
 
 ## Next Steps Considerations
