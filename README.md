@@ -34,11 +34,11 @@ You will need the following installed on your computer system, if you want to re
 
 ## Output
 
-* Below is a quick chart displaying the daily precipitation data from August 23, 2016 - August 23, 2017, in chronological order. The chart suggest that the islands have had increasing higher precipitation in 2017, compared to 2016.
+* Below is a quick chart displaying the daily precipitation data from August 23, 2016 - August 23, 2017, in chronological order. The data suggest that the islands have had increasing higher precipitation in 2017, compared to 2016, meaning there was higher probability for more rainfall.
 
 ![!precipitation_chart](./Images/precipitation_line.png)
 
-* Below is a quick chart displaying the daily precipitation data from August 23, 2016 - August 23, 2017, in chronological order. The chart suggest that the islands have had increasing higher precipitation in 2017, compared to 2016.
+* Here is a histogram of the most frequent temperatures in Hawaii from August 23, 2016 - August 23, 2017. The data suggests that Hawaii's average temperature is frequently around 75 degrees. This makes sense because the island is geographically closer to the equator compared to most countries and islands, and it is known as a year-round destination for vacation and tourism.
 
 ![!temperature_chart](./Images/temperature_histogram.png)
 
